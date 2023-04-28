@@ -1,9 +1,7 @@
 def test_function(num) :
-  target = [10.0]
   target = num[0] + num[1]
   print(target)
   return   
-
 
 num = [2.5,7.5,11.2,15.1]
 print(num)
