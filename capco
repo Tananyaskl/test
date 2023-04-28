@@ -1,4 +1,11 @@
 def test_function(num) :
+i = 0
+target = 10.0
+for i in num
+  i = +1
+  if num[x,y] = target
+     target = x+y
+     
   target = num[0] + num[1]
   print(target)
   return   
